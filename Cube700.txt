@@ -1,0 +1,12 @@
+      CUBE 700 CHANGES
+
+1. Nigeria should be populated first before any other countries
+2. it shouldnt be store name but Business Name, Business Address, Business website
+3. There should be terms and conditions
+4. Display Company Name and Username under Logo
+5. A default branch should be displayed
+6. System should be able to create a head office branch
+7. Id, Date Added, Last updated, should be removed under branch management
+8. Store Id should be unique and Readable
+9. Store owner should be able to manage a user
+10. Email shouldnt be editable
